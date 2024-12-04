@@ -1,0 +1,12 @@
+[submodule "checkbin-python"]
+	path = checkbin-python
+	url = https://github.com/checkbins/checkbin-python.git
+[submodule "HunyuanDiT"]
+	path = HunyuanDiT
+	url = https://github.com/tencent/HunyuanDiT
+[submodule "HunyuanVideo"]
+	path = HunyuanVideo
+	url = https://github.com/tencent/HunyuanVideo
+[submodule "LTX-Video"]
+	path = LTX-Video
+	url = https://github.com/Lightricks/LTX-Video.git

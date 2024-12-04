@@ -1,0 +1,82 @@
+[
+    {
+        "prompt": "A serene mountain landscape at sunrise, wide-angle view",
+        "negative_prompt": "No people or animals in the scene"
+    },
+    {
+        "prompt": "A dense forest with sunlight filtering through the trees, aerial view",
+        "negative_prompt": "Avoid urban structures"
+    },
+    {
+        "prompt": "A tranquil beach with gentle waves, panoramic view",
+        "negative_prompt": "No vehicles or modern technology"
+    },
+    {
+        "prompt": "A vast desert with rolling dunes, low-angle view",
+        "negative_prompt": "Exclude any signs of pollution"
+    },
+    {
+        "prompt": "A lush green valley with a river flowing through, bird's-eye view",
+        "negative_prompt": "No artificial lighting"
+    },
+    {
+        "prompt": "A group of friends having a picnic in the park, medium shot",
+        "negative_prompt": "No crowded or chaotic scenes"
+    },
+    {
+        "prompt": "A child playing with a dog in the backyard, close-up view",
+        "negative_prompt": "Avoid any signs of violence"
+    },
+    {
+        "prompt": "A couple dancing in a dimly lit ballroom, wide-angle view",
+        "negative_prompt": "No use of electronic devices"
+    },
+    {
+        "prompt": "A street performer entertaining a crowd, low-angle view",
+        "negative_prompt": "Exclude any form of advertising"
+    },
+    {
+        "prompt": "A family enjoying a meal together at home, over-the-shoulder view",
+        "negative_prompt": "No unnatural lighting effects"
+    },
+    {
+        "prompt": "A person jogging through a city park, tracking shot",
+        "negative_prompt": "No crowded or chaotic scenes"
+    },
+    {
+        "prompt": "A teacher giving a lecture in a classroom, frontal view",
+        "negative_prompt": "Avoid any signs of violence"
+    },
+    {
+        "prompt": "A chef cooking in a bustling kitchen, close-up view",
+        "negative_prompt": "No use of electronic devices"
+    },
+    {
+        "prompt": "A musician playing guitar on stage, side view",
+        "negative_prompt": "Exclude any form of advertising"
+    },
+    {
+        "prompt": "A group of people hiking up a mountain trail, aerial view",
+        "negative_prompt": "No unnatural lighting effects"
+    },
+    {
+        "prompt": "A lion resting in the savannah, wide-angle view",
+        "negative_prompt": "No human interaction"
+    },
+    {
+        "prompt": "A flock of birds flying over a lake, aerial view",
+        "negative_prompt": "Avoid any signs of captivity"
+    },
+    {
+        "prompt": "A cat playing with a ball of yarn, close-up view",
+        "negative_prompt": "No artificial environments"
+    },
+    {
+        "prompt": "A dog running through a field, tracking shot",
+        "negative_prompt": "Exclude any form of pollution"
+    },
+    {
+        "prompt": "A herd of elephants walking through a forest, long shot",
+        "negative_prompt": "No unnatural animal behavior"
+    }
+]
